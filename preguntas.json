@@ -1,0 +1,85 @@
+{
+  "preguntas": [
+      {
+          "pregunta": "Vos y Margarita tienen la misma cantidad de frutillas. ¿Cuántas frutillas tiene que darte Margarita para que tengas 10 más que ella?",
+          "opciones": {
+              "a)": "10",
+              "b)": "5",
+              "c)": "1"
+          },
+          "correcta": "b)"
+      },
+      {
+          "pregunta": "Vos y Juan tienen la misma cantidad de manzanas. ¿Cuántas manzanas tiene que darte Juan para que tengas 6 más que él?",
+          "opciones": {
+              "a)": "3",
+              "b)": "2",
+              "c)": "1"
+          },
+          "correcta": "a)"
+      },
+      {
+          "pregunta": "¿Cuántas veces podes podés restarle 5 a 20?",
+          "opciones": {
+              "a)": "0",
+              "b)": "1",
+              "c)": "4"
+          },
+          "correcta": "b)"
+      },
+      {
+          "pregunta": "Es medianoche y está lloviendo. Según lasestadísticas del tiempo, ¿qué posibilidades hay de que haga sol dentro de 72 horas?",
+          "opciones": {
+              "a)": "0",
+              "b)": "50",
+              "c)": "100"
+          },
+          "correcta": "0)"
+      },
+      {
+          "pregunta": "¿Cuánto es 10 dividido 1/2 más 10?",
+          "opciones": {
+              "a)": "30",
+              "b)": "15",
+              "c)": "10"
+          },
+          "correcta": "a)"
+      },
+      {
+          "pregunta": "¿Cuánto es 5 dividido 1/5 más 5?",
+          "opciones": {
+              "a)": "5",
+              "b)": "30",
+              "c)": "10"
+          },
+          "correcta": "b)"
+      }, 
+      {
+          "pregunta": "Cuando iba a Toay me encontre con un amigo con tres hijos. Cada hijo tenia tres amigos. Y cada amigo tenia dos primos ¿Cuantos ibamos a Toay?",
+          "opciones": {
+              "a)": "1",
+              "b)": "19",
+              "c)": "18"
+          },
+          "correcta": "a)"
+      },
+      {
+          "pregunta": "Si hoy es lunes, ¿qué día será 35 días después?",
+          "opciones": {
+              "a)": "martes",
+              "b)": "lunes",
+              "c)": "jueves"
+          },
+          "correcta": "b)"
+      },
+      {
+          "pregunta": "Si hoy es jueves, ¿qué día de la semana fue hace 140 días?",
+          "opciones": {
+              "a)": "martes",
+              "b)": "lunes|",
+              "c)": "jueves"
+          },
+          "correcta": "c)"
+      }
+  ]
+}
